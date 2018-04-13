@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Manual de Gestion de Proyectos de Conservación](README.md)
-* [Reconocimientos](reconocimientos.md)
+* [Marco de Gestión de Proyectos de Conservación](README.md)
+* [Contenido](reconocimientos.md)
+* [Vision de Conjunto](contenido.md)
 
