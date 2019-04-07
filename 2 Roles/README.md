@@ -1,5 +1,5 @@
 # 1 Overview
-The purpose of designating roles is to facilitate clear decision-making, efficient project control, team cohesion, and individual job satisfaction. All project staff are defined in terms of roles. A role is different to a post or position in that multiple roles may be assigned to a single post or position in an organisation [Box 5].
+The purpose of designating roles is to facilitate clear decision-making, efficient project control, team cohesion, and individual job satisfaction. All project staff are defined in terms of roles. A role is different to a post or position in that multiple roles may be assigned to a single post or position in an organisation [5].
 
 > Box 5. Operations.
 The term Operations refers to the operational departments within the organisation which perform functions such as human resource management, finance, administrative, communications, and fundraising.
