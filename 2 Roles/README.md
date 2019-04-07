@@ -16,7 +16,7 @@ Some project roles have particular accountabilities and responsibilities related
 Accountable: The person who makes the final decision in a given situation, or who has sign off authority on a document [8].
 Responsible: The person responsible for doing the day-to-day work to manage or carry out particular activities [8].
 
-![accountabilities and responsibilities by level](marco-gestion-proyectos-conservacion/2 Roles/figure 7.png)
+![accountabilities and responsibilities by level](marco-gestion-proyectos-conservacion/blob/master/2%20Roles/figure%207.png)
 
 This roles section describes each role and what they are accountable and responsible for. Additional details are also provided regarding when each role starts and finishes on the project (Figure 10), how many of each role might be expected on a project, and notes on any instances where different roles may or may not be assigned to the same person.
 More detailed responsibilities relating to the Phases, Administrative processes, and Control processes are described in those components. Guidance on how the Roles can be tailored is outlined in Box 12
