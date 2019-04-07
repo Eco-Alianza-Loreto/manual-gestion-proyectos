@@ -25,3 +25,7 @@ More detailed responsibilities relating to the Phases, Administrative processes,
 Line management describes who each role is directly managed by, in terms of taking instructions from and reporting to [2].
 
 ![Pre-project phase roles and line management](figure 8.png)
+
+![Pre-project phase roles and line management](/Users/Hugo/localhost/marco-gestion-proyectos-conservacion/2 Roles/figure 9.png)
+
+![Pre-project phase roles and line management](2 Roles/figure 10.png)
