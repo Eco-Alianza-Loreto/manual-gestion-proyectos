@@ -1,7 +1,5 @@
 # Principios
 
-
-
 ### 1.- Visión general
 
 El propósito de los Principios es asegurar que un proyecto mantenga altos estándares de eficacia y ética. Hay 5 principios PMWC \[5\]. Siguiendo estos principios se asegura que un proyecto:
@@ -10,7 +8,7 @@ El propósito de los Principios es asegurar que un proyecto mantenga altos está
 * Se centra más en lo que pretende lograr en lugar de cómo lo logrará \(**Enfoque en el** **impacto**\)
 * Documenta claramente lo que todo el equipo del proyecto está destinado a hacer \(Saber quién **hace** **qué**\)
 * Se adapta a los conocimientos y condiciones cambiantes \(**Adaptación informada**\)
-* Se gestiona utilizando un enfoque que mejor se adapte a las necesidades del proyecto **\(Adecuacion para el propósito\).**\).
+* Se gestiona utilizando un enfoque que mejor se adapte a las necesidades del proyecto **\(Adecuacion para el propósito\)**
 
 En el Recuadro 4 se describen orientaciones sobre cómo se pueden adaptar los principios.
 
