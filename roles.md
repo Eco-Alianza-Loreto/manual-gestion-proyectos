@@ -1,7 +1,5 @@
 # Roles
 
-
-
 ### 1.- Visión general
 
 El propósito de asignar roles es ayudar a garantizar una toma de decisiones clara, un control eficiente del proyecto, cohesión del equipo y satisfacción laboral individual. Un rol es diferente a una publicación o posición en que se pueden asignar varios roles al mismo miembro del equipo \[6\]. Por ejemplo, alguien puede tener el puesto de coordinador del Programa, pero puede tener el rol de Ejecutivo para un proyecto y Gerente de Proyecto para un proyecto diferente.
@@ -88,8 +86,6 @@ Ser el _**Facilitador**_ de la entrega del proyecto significa que el **Gerente d
 
 Figura 8. Responsabilidades y responsabilidades por nivel.
 
-### 
-
 ### 6.- Roles internos y externos
 
 Los roles pueden ser internos o externos a la organización principal responsable de la entrega del proyecto. Las funciones del Consejo de Administración, Líder y Ejecutivo deben ser siempre internas para garantizar que la organización principal tenga un nivel suficiente de control sobre el progreso del proyecto del que en última instancia es responsable de la entrega. Todas las demás funciones se pueden asignar externamente a una organización diferente que haya acordado llevar a cabo trabajos para la organización principal \(Figura 9\). Una organización que realiza trabajos en nombre de una organización líder puede considerarse como una organización de proveedores.
@@ -144,8 +140,6 @@ Los donantes pueden proporcionar fondos para apoyar todo o parte del trabajo del
 #### 8.3.- Asesor
 
 Las funciones de asesor se asignan a cualquier persona que esté proporcionando asesoramiento regular al equipo del proyecto. El punto de contacto para el Asesor puede ser cualquier persona en el equipo del proyecto y sólo depende del tipo de consejo que se proporciona. Por ejemplo, se podría asignar a un Asesor para proporcionar sugerencias al Ejecutivo sobre los cambios en el plan del proyecto, o a un líder de Workstream sobre cómo crear relaciones sólidas con los líderes de la comunidad local.
-
-#### 
 
 #### 8.4.- Socio
 
