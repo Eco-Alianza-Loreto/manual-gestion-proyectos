@@ -1,7 +1,5 @@
 # Apendices
 
-
-
 ### 1.-Ejemplo de Plan de proyecto
 
 Este plan de proyecto de ejemplo ilustra el tipo de captura de contenido en cada sección del plan de proyecto. A los efectos de este ejemplo, se han omitido algunas secciones del plan del proyecto \(introducción, presupuesto y referencias\) y no se citan fuentes de información. cited. Solo se utiliza un pequeño número de entradas en cada sección como contenido ilustrativo. Las definiciones de todos los términos utilizados en la sección de estrategia de conservación del plan del proyecto se proporcionan en el enfoque de Desarrollo de estrategia para la conservación de la vida silvestre \[7\].
