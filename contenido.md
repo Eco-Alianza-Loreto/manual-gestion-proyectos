@@ -47,21 +47,74 @@ _Además, aunque todos los proyectos tienen un punto final, ningún trabajo de c
 
 ### _2.2 Trabajando el Proyecto_
 
-Todo el trabajo del proyecto se organiza en paquetes de trabajo. Un paquete de trabajo es una colección de actividades de conservación relacionadas, por ejemplo, actividades de política. Los proyectos se pueden componer de uno o varios paquetes de trabajo que se ejecutan secuencialmente, en paralelo o ambos \(figura 01\).
+_Todo el trabajo del proyecto se organiza en paquetes de trabajo. Un paquete de trabajo es una colección de actividades de conservación relacionadas, por ejemplo, actividades de política. Los proyectos se pueden componer de uno o varios paquetes de trabajo que se ejecutan secuencialmente, en paralelo o ambos \(figura 01\)._
 
-![Figura 01. Ejemplo de arreglo de paquetes de trabajo de proyecto](.gitbook/assets/image%20%281%29.png)
+![Figura 01. Ejemplo de arreglo de paquetes de trabajo de proyecto](.gitbook/assets/image%20%282%29.png)
 
-### _2.3.- Proyectos y programas_
+### _2.3.- Proyectos y Programas_
 
-Los proyectos de conservación podrán llevarse a cabo de forma aislada o como parte de un programa de trabajo más amplio \[2\]. Un programa puede considerarse como una colección de proyectos. Por ejemplo, podría haber un proyecto independiente para reducir el consumo de energía de combustibles fósiles por parte de las personas que viven en Alemania, o ese proyecto podría formar parte de un programa más amplio para reducir las emisiones de gases de efecto invernadero en Alemania.
+_Los proyectos de conservación podrán llevarse a cabo de forma aislada o como parte de un programa de trabajo más amplio \[2\]. Un programa puede considerarse como una colección de proyectos. Por ejemplo, podría haber un proyecto independiente para reducir el consumo de energía de combustibles fósiles por parte de las personas que viven en Alemania, o ese proyecto podría formar parte de un programa más amplio para reducir las emisiones de gases de efecto invernadero en Alemania._
 
-Un programa proporciona la supervisión estratégica de lo que los proyectos combinados pretenden lograr, y los proyectos proporcionan un marco para la realización de las partes manejables del trabajo dentro de ese programa. La ventaja de dividir el trabajo de conservación de un programa en proyectos es que proporciona un conjunto de puntos de control importantes que pueden ser utilizados por un equipo de conservación para asegurarse de que están en el camino correcto para lograr el impacto deseado del programa. Sin que el trabajo se divida en proyectos, el programa puede continuar hasta el final de su cronograma antes de que el equipo se dé cuenta de que no ha logrado lo que se propuso hacer.
+_Un programa proporciona la supervisión estratégica de lo que los proyectos combinados pretenden lograr, y los proyectos proporcionan un marco para la realización de las partes manejables del trabajo dentro de ese programa. La ventaja de dividir el trabajo de conservación de un programa en proyectos es que proporciona un conjunto de puntos de control importantes que pueden ser utilizados por un equipo de conservación para asegurarse de que están en el camino correcto para lograr el impacto deseado del programa. Sin que el trabajo se divida en proyectos, el programa puede continuar hasta el final de su cronograma antes de que el equipo se dé cuenta de que no ha logrado lo que se propuso hacer._
 
-Los proyectos y programas pueden llevarse a cabo durante cualquier período de tiempo. Del mismo modo, dentro de un programa, los proyectos pueden llevarse a cabo secuencialmente, en paralelo, o ambos \(Figura 02\).
+_Los proyectos y programas pueden llevarse a cabo durante cualquier período de tiempo. Del mismo modo, dentro de un programa, los proyectos pueden llevarse a cabo secuencialmente, en paralelo, o ambos \(Figura 02\)._
 
-![Figura 02. Ejemplos de arreglos de proyectos dentro de un programa.](.gitbook/assets/image%20%282%29.png)
+![Figura 02. Ejemplos de arreglos de proyectos dentro de un programa.](.gitbook/assets/image%20%283%29.png)
 
+_Sin embargo, para que las cosas sean lo más fáciles de gestionar posible, se recomienda una disposición secuencial de 3 proyectos dentro de un único programa \(Figura 03\). También se recomiendan los siguientes plazos para un programa y sus proyectos:_
 
+* _**9-12 años para un programa**, para proporcionar una cantidad razonable de tiempo para alcanzar algún grado de cambio medible en los resultados de amenaza o biodiversidad_
+* _**3-4 años para un proyecto**, para proporcionar una cantidad razonable de tiempo para llevar a cabo las actividades del proyecto y lograr cambios medibles en los resultados de factores y comportamientos contribuyentes._
+
+![Figura 03. Arreglo recomendado y plazos de los proyectos en un programa.](.gitbook/assets/image%20%281%29.png)
+
+### _3.- Descripción general del manual_
+
+_El enfoque PMWC se puede utilizar por sí solo, pero también es compatible tanto con los estándares abiertos para la Práctica de Conservación \[4\]como con el enfoque de Desarrollo de Estrategia para la Conservación de la Vida Silvestre \[7\] \(Apéndice 2\)._ 
+
+El enfoque PMWC se compone de 6 componentes:
+
+* **Principios,** para mantener altos estándares de eficacia y ética
+* **Roles,** para aclarar la estructura del equipo y la toma de decisiones
+* **Fases,** para gestionar un proyecto de principio a fin
+* **Procesos de control,** para mantener un proyecto en marcha y adaptarse a los nuevos conocimientos y las condiciones cambiantes.
+* **Procesos administrativos,** para ayudar a llevar a cabo reuniones internas eficaces y desarrollar documentos de proyectos de alta calidad y resultados técnicos.
+* **Documentos,** para crear documentos de proyecto, estandarizados y vinculados. 
+
+Cada componente PMWC incluye directrices sobre cómo se puede adaptar ese componente para adaptarse a un entorno de proyecto determinado. Además de los 6 componentes, los Apéndices proporcionan un plan de proyecto de ejemplo. Los apéndices también describen cómo el enfoque PMWC es compatible con los Estándares Abiertos para la Práctica de Conservación y el enfoque de Desarrollo de Estrategia para la Conservación de la Vida Silvestre. 
+
+### 4.- Recursos de Apoyo
+
+Se proporciona un conjunto de documentos justificativos para ayudar a un equipo del proyecto a aplicar el enfoque PMWC \(Recuadro 3\). Estos documentos cubren todos los documentos PMWC mencionados en este manual. En la Tabla 1 se enumeran los enlaces a todos los documentos, así como a otros enlaces para ayudar a los conservacionistas a aplicar el enfoque PMWC y otras prácticas recomendadas relacionadas. 
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Recuadro 3. Documentos de apoyo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Planes:</b> Plan de proyecto</p>
+        <p><b>Ratreadores:</b> Rastreador previo al proyecto, Rastreador de proyectos,
+          Rastreador de revisi&#xF3;n de documentos, Rastreador de documentos</p>
+        <p><b>Informes: </b>Informe de la reuni&#xF3;n, Informe mensual/trimestral/anual/fase
+          final del reporte, Informe de excepci&#xF3;n, Informe de auditor&#xED;a
+          de aseguramiento del proyecto, Informe de auditor&#xED;a de aseguramiento
+          de operaciones, Informe del final del proyecto.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Tabla 1 Recursos de apoyo.
+
+| **Recurso** | **Enlace de acceso** |
+| :--- | :--- |
+| Documentos PMWC | [**Enlace 1**](https://drive.google.com/open?id=1lTw0TUwwU58wT52VXQ3gQXQQVxDTvX9g) |
+| Capacitación sobre PMWC y otras mejores prácticas | [**Enlace** ](http://www.wildteam.org.uk/classroom)**2** |
+| Enfoque de desarrollo de estrategias para la conservación de la vida silvestre | [**Enlace 3**](https://drive.google.com/open?id=1oYaS1uOyRjGA_w55YOd3N5YbGci-diR4) |
 
 
 
