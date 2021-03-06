@@ -25,6 +25,8 @@ Hugo Quintero M., es Presidente Ejecutivo y Cofundador de Eco-Alianza de Loreto 
 
 ## Licencia Creative Commons
 
+![](.gitbook/assets/0.png)
+
 Este marco se emite bajo la licencia de Attribution-ShareAlike Creative Commons versión 4.0, que permite a otros:
 
 * Compartir: copie y redistribuya el material en cualquier medio o formato
