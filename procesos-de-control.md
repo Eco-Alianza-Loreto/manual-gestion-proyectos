@@ -160,7 +160,7 @@ El efecto de cada lección aprendida se clasifica como "salió bien" o "podría 
 
 El Jefe de proyecto agrega información sobre las lecciones aprendidas al rastreador de proyectos. The A continuación, el jefe de proyecto incorpora tareas en el rastreador de proyectos de acuerdo con las recomendaciones.
 
-### 3.- Gestión de riesgos y problemas
+### 3.- Gestión de los riesgos
 
 #### 3.1.- Propósito
 
