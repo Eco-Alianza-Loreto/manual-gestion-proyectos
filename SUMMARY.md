@@ -4,8 +4,9 @@
 * [Introducción](contenido.md)
 * [Principios](principios.md)
 * [Roles](roles.md)
+* [Fases](fases.md)
 * [Ciclo de vida de los proyectos](ciclo-de-vida-de-los-proyectos.md)
 * [Carta de Projecto](carta-de-projecto.md)
 * [Untitled](untitled.md)
-* [Fases](fases.md)
+* [Procesos de Control](procesos-de-control.md)
 
